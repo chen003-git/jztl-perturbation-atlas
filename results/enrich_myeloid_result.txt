@@ -1,0 +1,41 @@
+髓系显著DR基因: 75 
+基因列表: Pparg,Rad51,Ccnb1,Pbk,Melk,Aurka,Shcbp1,Cdca5,Nusap1,Ska1,Tk1,Cep55,Mxd3,Bard1,Fam64a,Bub1b,Neil3,Cdkn3,Kif11,Cenpp,Lockd,Kif22,Glrb,Ccnf,Nuf2,Prc1,Traip,Ube2c,Fjx1,Mis18bp1,Bmpr1b,Ccna2,Pcdh10,St6galnac5,Pax6,Mboat2,Nrn1,C130071C03Rik,Cenph,Ctsg,Gm11627,Hhatl,Lipt1,Asphd2,Gstm6,Aldh5a1,Kif20a,Sp5,Cenpe,Plk1,Hist1h2af,Ndc80,Mcm10,Mki67,Aunip,Rad51ap1,Mtfr2,Bub1,Kifc1,Esco2,Kcnk12,Kif4,Hmmr,Ckap2,Nsl1,Dscc1,Clspn,Sgol2a,Spag5,Spdl1,Elane,Mpo,Iqgap3,E2f8,Arhgef39 
+
+Uploading data to Enrichr... Done.
+  Querying GO_Biological_Process_2021... Done.
+Parsing results... Done.
+=== 髓系 DR GO BP top15 ===
+                                                                   Term Overlap
+                              mitotic spindle organization (GO:0007052)  16/157
+ microtubule cytoskeleton organization involved in mitosis (GO:1902850)  15/128
+                      mitotic sister chromatid segregation (GO:0000070)  13/102
+                       mitotic metaphase plate congression (GO:0007080)    9/51
+                                  mitotic nuclear division (GO:0140014)    8/74
+                              sister chromatid segregation (GO:0000819)    6/34
+                          regulation of cell cycle process (GO:0010564)   8/106
+                                  kinetochore organization (GO:0051383)    4/13
+                                       mitotic cytokinesis (GO:0000281)    5/49
+                       mitotic cell cycle phase transition (GO:0044772)   8/209
+                 positive regulation of cell cycle process (GO:0090068)   6/101
+       regulation of mitotic metaphase/anaphase transition (GO:0030071)    4/26
+ regulation of metaphase/anaphase transition of cell cycle (GO:1902099)     3/8
+                           mitotic chromosome condensation (GO:0007076)    4/27
+             establishment of mitotic spindle localization (GO:0040001)    4/29
+      P.value Adjusted.P.value
+ 5.468141e-19     2.537041e-16
+ 8.778688e-19     2.537041e-16
+ 6.982820e-17     1.345357e-14
+ 2.393214e-13     3.458194e-11
+ 3.292698e-10     3.806359e-08
+ 2.805732e-09     2.702855e-07
+ 5.988773e-09     4.945016e-07
+ 1.270858e-07     9.181949e-06
+ 1.085872e-06     6.654049e-05
+ 1.151220e-06     6.654049e-05
+ 2.168683e-06     1.139544e-04
+ 2.560993e-06     1.233545e-04
+ 2.798175e-06     1.237690e-04
+ 2.997864e-06     1.237690e-04
+ 4.034149e-06     1.554492e-04
+
+完成

@@ -1,0 +1,108 @@
+brain 显著DR基因: 31 
+liver 显著DR基因: 79 
+Uploading data to Enrichr... Done.
+  Querying KEGG_2021_Mouse... Done.
+  Querying GO_Biological_Process_2021... Done.
+Parsing results... Done.
+
+========== brain KEGG ==========
+[1] Term             Overlap          Adjusted.P.value
+<0 rows> (or 0-length row.names)
+
+========== brain GO BP ==========
+                                                                                         Term
+                                                            placenta development (GO:0001890)
+                                                            base-excision repair (GO:0006284)
+                                  regulation of smooth muscle cell proliferation (GO:0048660)
+                                                          sprouting angiogenesis (GO:0002040)
+                                         negative regulation of defense response (GO:0031348)
+                                         long-chain fatty acid catabolic process (GO:0042758)
+                  negative regulation of vascular endothelial cell proliferation (GO:1905563)
+                                    negative regulation of gene silencing by RNA (GO:0060967)
+                                          trophoblast giant cell differentiation (GO:0060707)
+ positive regulation of vascular associated smooth muscle cell apoptotic process (GO:1905461)
+                                               disaccharide biosynthetic process (GO:0046351)
+                positive regulation of low-density lipoprotein receptor activity (GO:1905599)
+                       negative regulation of posttranscriptional gene silencing (GO:0060149)
+                             negative regulation of sequestering of triglyceride (GO:0010891)
+                                              cellular response to magnesium ion (GO:0071286)
+                                                       foam cell differentiation (GO:0090077)
+                                              negative regulation of cytokinesis (GO:0032466)
+                                    macrophage derived foam cell differentiation (GO:0010742)
+                                                      hepatocyte differentiation (GO:0070365)
+                    peroxisome proliferator activated receptor signaling pathway (GO:0035357)
+ Overlap Adjusted.P.value
+    2/15       0.07160079
+    2/48       0.10337358
+    2/49       0.10337358
+    2/52       0.10337358
+    2/85       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/5       0.10337358
+     1/6       0.10337358
+     1/6       0.10337358
+     1/6       0.10337358
+     1/6       0.10337358
+     1/6       0.10337358
+     1/6       0.10337358
+     1/6       0.10337358
+Uploading data to Enrichr... Done.
+  Querying KEGG_2021_Mouse... Done.
+  Querying GO_Biological_Process_2021... Done.
+Parsing results... Done.
+
+========== liver KEGG ==========
+[1] Term             Overlap          Adjusted.P.value
+<0 rows> (or 0-length row.names)
+
+========== liver GO BP ==========
+                                                                           Term
+                                    white fat cell differentiation (GO:0050872)
+                 positive regulation of cold-induced thermogenesis (GO:0120162)
+                          positive regulation of metabolic process (GO:0009893)
+               regulation of proteasomal protein catabolic process (GO:0061136)
+           positive regulation of multicellular organismal process (GO:0051240)
+                 regulation of transcription by RNA polymerase III (GO:0006359)
+              negative regulation of cell population proliferation (GO:0008285)
+                             cellular response to insulin stimulus (GO:0032869)
+                                Golgi to plasma membrane transport (GO:0006893)
+                        regulation of smoothened signaling pathway (GO:0008589)
+                     negative regulation of B cell differentiation (GO:0045578)
+   positive regulation of axon extension involved in axon guidance (GO:0048842)
+          negative regulation of cardiac muscle cell proliferation (GO:0060044)
+                                                 anion homeostasis (GO:0055081)
+         negative regulation of CREB transcription factor activity (GO:0032792)
+                      negative regulation of gene silencing by RNA (GO:0060967)
+                     negative regulation of gonadotropin secretion (GO:0032277)
+                                     glycerol biosynthetic process (GO:0006114)
+ positive regulation of Golgi to plasma membrane protein transport (GO:0042998)
+                                      hemoglobin metabolic process (GO:0020027)
+ Overlap Adjusted.P.value
+     2/7        0.1830119
+    4/97        0.1830119
+   4/113        0.1969465
+    3/54        0.1969465
+   6/345        0.2353622
+    2/21        0.2353622
+   6/379        0.2353622
+   3/129        0.2353622
+    2/48        0.2353622
+    2/51        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+     1/5        0.2353622
+
+富集完成

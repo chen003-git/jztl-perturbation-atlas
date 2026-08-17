@@ -1,0 +1,86 @@
+Jun 靶点数: 140 
+前20: ABCB1,ABCG2,ACE,ACHE,ADIPOQ,ADRA1A,ADRA1B,ADRB1,ADRB2,AGT,AKR1B1,AKR1C3,AKT1,ANGPT1,AR,BAX,BCL2,BCL2L1,BCL2L11,BIRC5 
+
+Uploading data to Enrichr... Done.
+  Querying KEGG_2021_Human... Done.
+  Querying GO_Biological_Process_2021... Done.
+Parsing results... Done.
+========== Jun KEGG (top 20) ==========
+                                                 Term Overlap      P.value
+                                   Pathways in cancer  69/531 3.558492e-71
+ AGE-RAGE signaling pathway in diabetic complications  35/100 2.908839e-51
+      Kaposi sarcoma-associated herpesvirus infection  40/193 2.675314e-48
+                                          Hepatitis B  37/162 2.567577e-46
+                            Lipid and atherosclerosis  40/215 2.900875e-46
+                           PI3K-Akt signaling pathway  45/354 2.067717e-44
+                              Chemical carcinogenesis  39/239 1.046941e-42
+                              Proteoglycans in cancer  37/205 3.404749e-42
+                      Human cytomegalovirus infection  38/225 3.455158e-42
+                                      Prostate cancer   30/97 5.580352e-42
+                              HIF-1 signaling pathway  29/109 2.143036e-38
+                                    Colorectal cancer   26/86 4.142833e-36
+               Fluid shear stress and atherosclerosis  28/139 2.524209e-33
+                               MAPK signaling pathway  35/294 2.839971e-33
+                                        Breast cancer  28/147 1.372852e-32
+                                    Pancreatic cancer   22/76 3.699874e-30
+                                  MicroRNAs in cancer  33/310 9.886797e-30
+                               Rap1 signaling pathway  29/210 1.791425e-29
+             Human immunodeficiency virus 1 infection  29/212 2.380053e-29
+                            Relaxin signaling pathway  25/129 2.426052e-29
+ Adjusted.P.value
+     8.575965e-69
+     3.505151e-49
+     2.149169e-46
+     1.398222e-44
+     1.398222e-44
+     8.305328e-43
+     3.604468e-41
+     9.252146e-41
+     9.252146e-41
+     1.344865e-40
+     4.695198e-37
+     8.320189e-35
+     4.679496e-32
+     4.888807e-32
+     2.205716e-31
+     5.572935e-29
+     1.401599e-28
+     2.398519e-28
+     2.923393e-28
+     2.923393e-28
+
+========== Jun GO BP (top 15) ==========
+                                                                          Term
+                           cellular response to cytokine stimulus (GO:0071345)
+         positive regulation of intracellular signal transduction (GO:1902533)
+                      regulation of cell population proliferation (GO:0042127)
+                              cytokine-mediated signaling pathway (GO:0019221)
+                         negative regulation of apoptotic process (GO:0043066)
+             positive regulation of cell population proliferation (GO:0008284)
+                                                     MAPK cascade (GO:0000165)
+                              positive regulation of MAPK cascade (GO:0043410)
+                   positive regulation of protein phosphorylation (GO:0001934)
+                           positive regulation of gene expression (GO:0010628)
+                                  regulation of apoptotic process (GO:0042981)
+              positive regulation of transcription, DNA-templated (GO:0045893)
+                           positive regulation of phosphorylation (GO:0042327)
+           positive regulation of macromolecule metabolic process (GO:0010604)
+ transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)
+ Overlap      P.value Adjusted.P.value
+  41/482 4.115214e-33     1.140326e-29
+  42/546 3.765706e-32     5.217385e-29
+  46/764 1.208863e-30     1.116587e-27
+  42/621 7.079691e-30     4.904456e-27
+  35/485 1.000303e-25     5.543680e-23
+  34/474 6.734005e-25     3.109988e-22
+  29/303 8.523074e-25     3.226163e-22
+  28/274 9.593675e-25     3.226163e-22
+  31/371 1.081744e-24     3.226163e-22
+  34/482 1.164259e-24     3.226163e-22
+  39/742 1.230977e-23     3.100943e-21
+ 47/1183 1.724554e-23     3.982282e-21
+  26/253 4.523254e-23     9.460557e-21
+  30/384 4.779783e-23     9.460557e-21
+  30/404 2.086571e-22     3.854591e-20
+
+富集完成
