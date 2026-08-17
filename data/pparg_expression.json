@@ -24,9 +24,8 @@
  "liver": {
   "Hepatocyte": {
    "n": 1882,
-   "pparg_pct_merged": 3.03,
    "pparg_pct_across_clusters": "4.8-6.6%",
-   "note": "4.8-6.6% is the range across hepatocyte clusters (reported in manuscript); 3.03% is the merged value"
+   "note": "PPARG+ hepatocyte frequency across clusters (4.8-6.6%), as reported in the manuscript (Fig. 3A)"
   },
   "Stellate": {
    "n": 2,
