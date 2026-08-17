@@ -43,7 +43,7 @@ jztl-perturbation-atlas/
 │   ├── enrich_result.txt          # Enrichment results
 │   ├── drgs_summary.txt           # vKO DRG summary
 │   └── liver_go_bp.csv            # Liver vKO GO BP (adjusted P ≥ 0.14)
-├── ligands/          # 15 ligand SDF files (alisol B, emodin, quercetin, ursolic acid, nuciferine)
+├── ligands/          # 12 ligand SDF files (alisol B, emodin, quercetin, ursolic acid, nuciferine)
 └── data/             # Processed data (DRG tables, PPARG expression)
     ├── brain_DRGs.csv             # Brain vKO differentially regulated genes
     ├── brain_myeloid_DRGs.csv     # Brain myeloid vKO DRGs (75 genes)

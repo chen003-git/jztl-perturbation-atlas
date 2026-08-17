@@ -1,46 +1,47 @@
 {
-  "brain": {
-    "myeloid": {
-      "n": 4481,
-      "pparg_pct": 1.7,
-      "pparg_mean": 0.0213
-    },
-    "non_myeloid": {
-      "n": 53845,
-      "pparg_pct": 0.14,
-      "pparg_mean": 0.0018
-    },
-    "monocyte": {
-      "n": 2281,
-      "pparg_pct": 2.1,
-      "pparg_mean": 0.0272
-    },
-    "macrophage": {
-      "n": 2200,
-      "pparg_pct": 1.27,
-      "pparg_mean": 0.0153
-    }
+ "brain": {
+  "myeloid": {
+   "n": 4481,
+   "pparg_pct": 1.7,
+   "pparg_mean": 0.0213
   },
-  "liver": {
-    "Hepatocyte": {
-      "n": 1882,
-      "pparg_pct": 3.03,
-      "pparg_mean": 0.0333
-    },
-    "Stellate": {
-      "n": 2,
-      "pparg_pct": 0.0,
-      "pparg_mean": 0.0
-    },
-    "Kupffer": {
-      "n": 14,
-      "pparg_pct": 0.0,
-      "pparg_mean": 0.0
-    },
-    "LSEC": {
-      "n": 23,
-      "pparg_pct": 0.0,
-      "pparg_mean": 0.0
-    }
+  "non_myeloid": {
+   "n": 53845,
+   "pparg_pct": 0.14,
+   "pparg_mean": 0.0018
+  },
+  "monocyte": {
+   "n": 2281,
+   "pparg_pct": 2.1,
+   "pparg_mean": 0.0272
+  },
+  "macrophage": {
+   "n": 2200,
+   "pparg_pct": 1.27,
+   "pparg_mean": 0.0153
   }
+ },
+ "liver": {
+  "Hepatocyte": {
+   "n": 1882,
+   "pparg_pct_merged": 3.03,
+   "pparg_pct_across_clusters": "4.8-6.6%",
+   "note": "4.8-6.6% is the range across hepatocyte clusters (reported in manuscript); 3.03% is the merged value"
+  },
+  "Stellate": {
+   "n": 2,
+   "pparg_pct": 0.0,
+   "pparg_mean": 0.0
+  },
+  "Kupffer": {
+   "n": 14,
+   "pparg_pct": 0.0,
+   "pparg_mean": 0.0
+  },
+  "LSEC": {
+   "n": 23,
+   "pparg_pct": 0.0,
+   "pparg_mean": 0.0
+  }
+ }
 }
